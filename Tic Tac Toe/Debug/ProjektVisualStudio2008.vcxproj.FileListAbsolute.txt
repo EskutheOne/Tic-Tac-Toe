@@ -1,0 +1,4 @@
+D:\PW\Infa II\Kółko i Krzyżyk\Debug\Grafika.exe
+D:\PW\Infa II\Kółko i Krzyżyk\Debug\Grafika.pdb
+D:\PW\Infa II\Tic Tac Toe\Debug\Grafika.exe
+D:\PW\Infa II\Tic Tac Toe\Debug\Grafika.pdb

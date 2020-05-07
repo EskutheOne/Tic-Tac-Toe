@@ -1,0 +1,73 @@
+﻿cl : wiersz polecenia warning D9035: Opcja "Gm" jest przestarzała i będzie usunięta w przyszłych wydaniach
+  winbgi2.cpp
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(555,7): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(555,13): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(555,19): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1080,53): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1080,48): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1080,44): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1080,39): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1080,33): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1080,27): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1080,21): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1080,15): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1083,60): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1083,55): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1083,51): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1083,46): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1083,40): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1083,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1083,28): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1083,22): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1093,12): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1094,12): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1096,53): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1096,48): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1096,44): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1096,39): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1096,33): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1096,27): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1096,21): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1096,15): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1099,60): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1099,55): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1099,51): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1099,46): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1099,40): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1099,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1099,28): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1099,22): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1331,17): warning C4244: "=": konwersja z "double" do "LONG", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1332,17): warning C4244: "=": konwersja z "double" do "LONG", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1333,17): warning C4244: "=": konwersja z "double" do "LONG", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1334,17): warning C4244: "=": konwersja z "double" do "LONG", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1343,22): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1344,22): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1626,13): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(1626,11): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(2114,15): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(2161,9): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(2162,9): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(2183,24): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(2183,16): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(2204,25): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(2204,16): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(2213,41): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(2213,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(2213,29): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(2213,20): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(2229,9): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(2230,9): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(2241,41): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(2241,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(2241,29): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\winbgi2.cpp(2241,20): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  main.cpp
+D:\PW\Infa II\Tic Tac Toe\main.cpp(127,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PW\Infa II\Tic Tac Toe\main.cpp(145,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\main.cpp(346,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\PW\Infa II\Tic Tac Toe\main.cpp(325,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PW\Infa II\Tic Tac Toe\main.cpp(333,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generowanie kodu...
+main.obj : warning LNK4075: zignorowano opcję „/EDITANDCONTINUE” z powodu określenia opcji „/SAFESEH”
+  ProjektVisualStudio2008.vcxproj -> D:\PW\Infa II\Tic Tac Toe\Debug\Grafika.exe
